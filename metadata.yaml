@@ -1,11 +1,14 @@
 _repo: The-Hymns-of-Ann-Griffiths-of-Dolwar-Fechan-Translated-into-English-Verse_51190
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pughe, G. R. G. (George Richard Gould)
     alias: Pughe, George Richard Gould
     gutenberg_agent_id: '48311'
     url: http://www.gutenberg.org/2009/agents/48311
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Griffiths, Ann
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '46284'
     url: http://www.gutenberg.org/2009/agents/46284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51190#The-Hymns-of-Ann-Griffiths-of-Dolwar-Fechan-Translated-into-English-Verse
 gutenberg_issued: '2016-02-12'
 gutenberg_type: Text
 identifiers:
